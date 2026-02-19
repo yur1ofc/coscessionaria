@@ -1,13 +1,13 @@
 export const siteConfig = {
-  name: "Concessionária Premium",
-  description: "Os melhores carros com as melhores condições.",
+  name: "ConcessionÃ¡ria Premium",
+  description: "Os melhores carros com as melhores condiÃ§Ãµes.",
   mainNav: [
     {
-      title: "Início",
+      title: "InÃ­cio",
       href: "/",
     },
     {
-      title: "Veículos",
+      title: "VeÃ­culos",
       href: "#veiculos",
     },
     {
@@ -16,3 +16,5 @@ export const siteConfig = {
     },
   ],
 }
+
+export const whatsappLink = "https://wa.me/5511912345678";
